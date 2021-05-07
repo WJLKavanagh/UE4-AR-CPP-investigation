@@ -1,5 +1,14 @@
-## IGNORE EVERYTHING
-*
+## Ignore most folders.
+.vs/*
+Binaries/*
+Build/*
+Config/*
+Content/*
+DerivedDataCache/*
+Intermediate/*
+Saved/*
+Script/*
+Source/*
 
 # Except, the source files and the ignore file.
 !Source/*
