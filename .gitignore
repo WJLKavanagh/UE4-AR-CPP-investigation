@@ -1,4 +1,6 @@
+## IGNORE EVERYTHING
 *
-!*.h
-!*.c
+
+# Except, the source files and the ignore file.
+!Source.*
 !.gitignore
